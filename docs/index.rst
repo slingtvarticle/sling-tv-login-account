@@ -10,7 +10,7 @@ Discover how to log in to your Sling TV account with ease. Follow this complete,
    :alt: Sling TV
    :width: 400px
    :align: center
-   :target: https://www.ccleaneraccount.com/login/
+   :target: https://tvsling.net/
 
 Streaming your favorite TV shows and live channels has never been easier with Sling TV. As a leading platform for cord-cutters, Sling TV offers a flexible and affordable way to enjoy premium entertainment without the need for traditional cable. But to get started or continue enjoying your subscription, you need to know how to access your Sling TV login account. Whether you're using a smartphone, smart TV, or desktop, this guide will help you navigate the login process effortlessly.
 
